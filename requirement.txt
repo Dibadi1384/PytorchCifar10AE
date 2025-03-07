@@ -1,0 +1,11 @@
+numpy
+matplotlib 
+seaborn
+tqdm
+torch
+torchvision
+pytorch-lightning
+tensorboard
+torchsummary
+torch-fidelity
+scikit-image
